@@ -57,43 +57,7 @@ Dự án đã giúp đội đạt giải thưởng **"OUTSTANDING"** tại cuộ
 1. **Clone repository**:
    ```bash
    git clone https://github.com/yourusername/ten-repository.git
-   ```
-
-2. **Flash mã nguồn**:
-   - Sử dụng Arduino IDE để tải mã nguồn từ repository lên Arduino Nano.
-
-3. **Ghép đôi Bluetooth HC-06**:
-   - Mở cài đặt Bluetooth trên điện thoại và ghép đôi HC-06 (mật khẩu mặc định: `1234`).
-
-4. **Sử dụng ứng dụng di động**:
-   - Kết nối ứng dụng di động được phát triển bằng MIT App Inventor với HC-06.
-   - Xem chỉ số TDS được đo và phân tích ngay trên app.
-
----
-
-## Kết quả
-- **Hoạt động hiệu quả**: Dự án đo lường chính xác chỉ số TDS và gửi dữ liệu qua ứng dụng di động.
-- **Giải thưởng**: Đạt giải **"OUTSTANDING"** tại cuộc thi UnivStar nhờ tính sáng tạo và ứng dụng công nghệ vượt trội.
-
----
-
-## Hạn chế và hướng phát triển
-### Hạn chế:
-- Chỉ hỗ trợ Bluetooth, chưa tích hợp WiFi hoặc công nghệ IoT.
-- Ứng dụng di động chưa hỗ trợ cảnh báo tự động hoặc gửi dữ liệu lên cloud.
-
-### Hướng phát triển:
-- Tích hợp công nghệ IoT để lưu trữ và phân tích dữ liệu trên cloud.
-- Thêm các cảm biến bổ sung để phân tích chất lượng nước (vd: pH, độ đục).
-
----
-
-## Hình ảnh
-### 1. Ứng dụng di động:
-![Ứng dụng MIT App Inventor](app.jpg)
-
-### 2. Mô hình hoạt động:
-![Cảm biến TDS và LCD](tds_model.jpg)
+  png)
 
 ---
 
