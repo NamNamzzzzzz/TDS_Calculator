@@ -57,7 +57,7 @@ Dự án đã giúp đội đạt giải thưởng **"OUTSTANDING"** tại cuộ
 ### 1. Ứng dụng di động:
 ![Ứng dụng MIT App Inventor](tds_app.jpg)
 
-### 2. Mô hình hoạt động:
+### 2. Mô hình hoạt động (APP CŨ):
 ![Cảm biến TDS và LCD](tds.png)
 
 
