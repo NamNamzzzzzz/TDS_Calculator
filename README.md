@@ -53,11 +53,13 @@ Dự án đã giúp đội đạt giải thưởng **"OUTSTANDING"** tại cuộ
 
 ---
 
-## Hướng dẫn sử dụng
-1. **Clone repository**:
-   ```bash
-   git clone https://github.com/yourusername/ten-repository.git
-  png)
+## Hình ảnh
+### 1. Ứng dụng di động:
+![Ứng dụng MIT App Inventor](tds_app.jpg)
+
+### 2. Mô hình hoạt động:
+![Cảm biến TDS và LCD](tds.png)
+
 
 ---
 
